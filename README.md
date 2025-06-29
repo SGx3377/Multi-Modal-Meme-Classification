@@ -99,6 +99,6 @@ pip install pandas numpy matplotlib scikit-learn jupyter transformers torch torc
 
 
 **<h4>🧑‍🤝‍🧑 Other Contributors:</h4>**
-My IIIT Delhi batchmates Manan Aggarwal & Souparno Ghose also contributed in this project.
+My IIIT Delhi batchmates Manan Aggarwal & Shobhit Raj also contributed in this project.
 
 📌 Important: Please make sure to follow the guidelines and policies outlined by the institution regarding the use of shared coursework materials. Use this repository responsibly and avoid any violations of academic integrity. Codes are provided for reference purposes only. It's recommended to understand the codes and implement them independently.
